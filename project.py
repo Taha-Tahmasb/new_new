@@ -128,6 +128,7 @@ while True:
     7. Show last orders
     8. Set score for product
     """)
+
     n = int(input())
     if n == 1:
         tmp = input("Enter product name: ")
